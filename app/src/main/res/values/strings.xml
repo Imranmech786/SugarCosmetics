@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sugar Cosmetics</string>
+    <string name="search">Search</string>
+    <string name="retry">Click To Retry</string>
+    <string name="check_internet_connection">Check your Internet Connection</string>
+    <string name="no_favourites">No Favourites</string>
+    <string name="image">image</string>
+    <string name="no_data_available">No Data Available</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+</resources>

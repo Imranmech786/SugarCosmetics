@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="app_background">#EEEEEE</color>
+    <color name="medium_gray_color">#6d7c83</color>
+    <color name="toolbar_item_color">#2c414c</color>
+    <color name="white">#ffffff</color>
+    <color name="dark_gray_color">#2c414c</color>
+    <color name="tab_indicator_color">#673ab7</color>
+    <color name="gray">#6d7c83</color>
+    <color name="fab_background">#F3F3F3</color>
+    <color name="toolbar_title">#6d7c83</color>
+    <color name="placeholder_one">#f0f3f5</color>
+    <color name="placeholder_two">#f9f2ec</color>
+    <color name="placeholder_three">#fbe9f2</color>
+    <color name="placeholder_four">#faebec</color>
+    <color name="placeholder_five">#eeeff6</color>
+    <color name="placeholder_six">#f6f2ee</color>
+    <color name="placeholder_seven">#faf5eb</color>
+    <color name="placeholder_eight">#e9fbfa</color>
+    <color name="placeholder_nine">#fff6e5</color>
+    <color name="placeholder_ten">#f6f5ef</color>
+    <color name="placeholder_eleven">#edf8f3</color>
+    <color name="placeholder_twelve">#faebf0</color>
+    <color name="gray_background">#d6d6d6</color>
+</resources>
